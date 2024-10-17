@@ -8,7 +8,7 @@ import type {
 export class N8nApi implements ICredentialType {
 	name = 'n8nApi';
 
-	displayName = 'n8n API';
+	displayName = 'API';
 
 	documentationUrl = 'https://docs.n8n.io/api/authentication/';
 

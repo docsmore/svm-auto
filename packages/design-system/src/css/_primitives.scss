@@ -4,8 +4,12 @@
 // Tokens should be used instead in components an other UI elements
 
 @mixin primitives {
+	--color-primary-h: 120;
+	--color-primary-s: 100%;
+	--color-primary-l: 25%;
+
 	// Gray
-	--prim-gray-h: 220;
+	--prim-gray-h: 120;
 
 	--prim-gray-820: hsl(var(--prim-gray-h), 1%, 18%);
 	--prim-gray-800: hsl(var(--prim-gray-h), 1%, 20%);

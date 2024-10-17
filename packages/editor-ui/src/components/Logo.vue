@@ -18,11 +18,12 @@ export default defineComponent({
 </script>
 
 <template>
-	<img :src="logoPath" :class="$style.img" alt="n8n.io" />
+	<img />
 </template>
 
 <style lang="scss" module>
 .img {
-	height: 32px;
+	height: 82px;
+	src: url('https://res.cloudinary.com/dqql2wlbt/image/upload/v1726183681/Transparent-02_ummxaa.png');
 }
 </style>
