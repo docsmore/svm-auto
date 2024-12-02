@@ -11,7 +11,7 @@ export default defineComponent({
 			return this.rootStore.baseUrl;
 		},
 		logoPath(): string {
-			return 'https://res.cloudinary.com/dqql2wlbt/image/upload/v1728424536/solvgene-horizontal_1_tazw0i.png';
+			return 'https://res.cloudinary.com/dqql2wlbt/image/upload/v1732220751/solvrays-horizontal_hojc3q.png';
 		},
 	},
 });

@@ -82,7 +82,7 @@ const logoPath = computed(() =>
 	// basePath.value +
 	isCollapsed.value
 		? 'https://res.cloudinary.com/dqql2wlbt/image/upload/v1728424608/svg-logo-only_cipsga.png'
-		: 'https://res.cloudinary.com/dqql2wlbt/image/upload/v1728424536/solvgene-horizontal_1_tazw0i.png',
+		: 'https://res.cloudinary.com/dqql2wlbt/image/upload/v1732220751/solvrays-horizontal_hojc3q.png',
 );
 
 const hasVersionUpdates = computed(
